@@ -1,0 +1,165 @@
+#wrapper {
+	padding: 50px;
+	font-family: "Lato";
+	width: 1080px;
+	margin: 0 auto;
+	
+}
+
+
+#nav {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
+
+}
+
+li {
+
+	float: left;
+
+}
+
+.header {
+	display: block;
+	width: 179px;
+	height:30px;
+	clear: right;
+	color: white;
+	text-decoration: none;
+	background-color: black;
+	text-align: center;
+	margin-right: 1px;
+	font-size: 24px;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+
+
+
+
+
+#main {
+	width: 720px;
+	float:left;
+
+}
+
+#sidebar {
+	width: 320px;
+	float:right;
+	color: #888888;
+	margin-top: 30px;
+	font-size: 18px;
+	
+}
+
+h1{
+	font-weight: normal;
+	color: #DD0000;
+	font-size: 56px;
+	margin-bottom: 0px;
+	display: inline-block;
+	margin-right: 10px;
+
+	
+
+}
+
+
+
+#betterDressed {
+	font-weight: normal;
+	font-size: 26px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+	color: #aaaaaa;
+	
+
+}
+
+.header:hover{
+	background-color: #990000;
+	color: white;
+}
+
+a:hover{
+	color: #aa0000;
+}
+
+
+
+#title{
+	font-weight: normal;
+	font-size: 36px;
+	margin-top: 0px;
+	margin-bottom: 15px;
+}
+
+.footer {
+	color: #DD0000;
+	text-decoration: none;
+
+}
+
+.date{
+	clear: both;
+	color: #cccccc;
+	font-weight: normal;
+	font-size: 36px;
+	margin-bottom: 10px;
+}
+
+img {
+	width: 720px;
+	height: 200px;
+}
+
+.post{
+	border-bottom: 1px solid #cccccc;
+	padding-bottom: 10px;
+	margin-bottom: 50px;
+}
+
+.continues {
+	color: #DD0000;
+	text-align: right;
+	font-weight: bold;
+}
+
+#copyright{
+	color: #bbbbbb;
+}
+
+.articles{
+	font-size: 18px;
+	line-height: 25px;
+	
+}
+
+.articles:first-letter {
+	font-size: 100px;
+	float: left;
+	line-height: 60px;
+	color: #cccccc
+
+
+}
+
+.sideList {
+	color: #DD0000;
+	text-decoration: none;
+
+}
+
+#ad {
+	width: 320px;
+	padding-bottom: 40px;
+}
+
+h5{
+	font-size: 18px;
+}
+
